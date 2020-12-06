@@ -6,7 +6,7 @@ module.exports = {
   output: {
     path: `${__dirname}/dist/prod`,
     publicPath: '/',
-    filename: 'app.[name].js',
+    filename: 'app.[name].[hash].js',
   },
   optimization: {
     minimizer: [new TerserPlugin()],
