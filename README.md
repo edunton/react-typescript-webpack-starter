@@ -1,7 +1,3 @@
-![Beginning](assets/beginning.jpg)
-
-<h1 align="center">Webpack/Babel/TypeScript/React/ESLint</h1>
-
 A small starter kit for your JavaScript/React projects. It includes:
 
 * Webpack + webpack-dev-server (live-reload and watcher)
@@ -11,8 +7,7 @@ A small starter kit for your JavaScript/React projects. It includes:
 
 ## How to use it
 
-1. Create an empty folder and run `npx beginning && npm install`
-2. Run `npm run dev` and open http://localhost:9000
+Run `npm run dev` and open http://localhost:9000
 
 --- 
 
@@ -23,3 +18,5 @@ A small starter kit for your JavaScript/React projects. It includes:
 
 * You don't wanna deal with Webpack/Babel/TypeScript/React configuration.
 * You want the bare minimum setup to work with TypeScript and React.
+
+## Credit to https://github.com/krasimir/beginning
